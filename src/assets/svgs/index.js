@@ -1,0 +1,11 @@
+export { default as LogoSVG } from './Logo';
+export { default as ArrowSVG } from './Arrow';
+export { default as BankSVG } from './Bank';
+export { default as HomeSVG } from './Home';
+export { default as IdSVG } from './Id';
+export { default as MobileSVG } from './Mobile';
+export { default as SuccessSVG } from './Success';
+export { default as TableArrowSVG } from './TableArrow';
+export { default as FilledSuccessSVG } from './FilledSuccess';
+export { default as DollarSVG } from './Dollar';
+export { default as DirhamSVG } from './Dirham';
